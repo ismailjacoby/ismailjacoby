@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailjacoby&label=Profile%20views&color=0e75b6&style=flat" alt="ismailjacoby" /> </p>
 
-- 🔭 I’m currently enrolled in a developer training at **Technobel**
+- 🔭 I’m currently enrolled in a developer training at [Technobel](https://www.technobel.be/)
 
 - 📫 How to reach me **ismail.jacoby@gmail.com**
 
