@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailjacoby&label=Profile%20views&color=0e75b6&style=flat" alt="ismailjacoby" /> </p>
 
-- 🖥️ Recently completed a 9-month Java and Angular training program at Technobel and am eager to apply my knowledge in real projects.
+- 🖥️ Recently completed a 9-month Java and Angular training program at Technobel and I am now eager to apply my knowledge in real projects.
 
 - 📫 How to reach me **ismail.jacoby@gmail.com**
 
