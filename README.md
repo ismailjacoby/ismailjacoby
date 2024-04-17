@@ -5,8 +5,6 @@
 
 - 🖥️ Recently completed a 9-month Java and Angular training program at Technobel and I am now eager to apply my knowledge in real projects.
 
-- ⚒️ Currently working on: DJ Pool App (Website to simplify the job of a DJ by allowing them to download songs based on the type of venues they play and by energy levels)
-
 - 📫 How to reach me **ismail.jacoby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
