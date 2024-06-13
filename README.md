@@ -5,7 +5,7 @@
 
 - 🖥️ Specializing in Full Stack Development after completing an intensive 9-month developer training, I'm now looking forward to work on larger projects and am currently improving my skill set with online courses and personal projects.
 
-- Portfolio:
+- 📑 Portfolio:
   https://ismailjacoby.github.io/Ismail-Jacoby-2024-Portfolio/
 
 - 📫 How to reach me **ismail.jacoby@gmail.com**
