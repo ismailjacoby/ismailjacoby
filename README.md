@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailjacoby&label=Profile%20views&color=0e75b6&style=flat" alt="ismailjacoby" /> </p>
 
-- 🖥️ Specializing in Full Stack Development after completing an intensive 9-month developer training, I'm now looking forward to work on larger projects and am currently improving my skill set with online courses and personal projects.
+- 🖥️ Specializing in Java & Angular Development after completing an intensive 9-month developer training, I'm now looking forward to work on larger projects and am currently improving my skill set with online courses and personal projects.
 
 - 📑 Portfolio:
   https://ismailjacoby.github.io/Ismail-Jacoby-2024-Portfolio/
