@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ismailjacoby/Hybridvision-Music-Studio-Website" target="_blank">🎹 Hybridvision</a></td>
-    <td>Java, Angular, Tailwind, PostgreSQL, Docker, Stripe, AWS S3</td>
+    <td>Java, Angular, PostgreSQL, Docker, Stripe, AWS S3</td>
     <td>Music studio website with digital products.</td>
   </tr>
     
