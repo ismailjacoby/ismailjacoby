@@ -5,9 +5,6 @@
 
 - 🖥️ Specializing in Java & Angular Development after completing an intensive 9-month developer training, I'm now looking forward to work on larger projects and am currently improving my skill set with online courses and personal projects.
 
-- 📑 Portfolio:
-  https://ismailjacoby.com
-
 - 📫 How to reach me **ismail.jacoby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,3 +34,34 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailjacoby&show_icons=true&locale=en&layout=compact" alt="ismailjacoby" /></p>
+
+<h3 align="left">Projects:</h3>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ismailjacoby/Hybridvision-Music-Studio-Website" target="_blank">🎹 Hybridvision</a></td>
+    <td>Java, Angular, Tailwind, PostgreSQL, Docker, Stripe, AWS S3</td>
+    <td>Music studio website with digital products.</td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/ismailjacoby/JobTracker" target="_blank">💼 Job Tracker</a></td>
+    <td>Angular, Spring, and PostgreSQL, Bootstrap</td>
+    <td>Web application for managing job applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ismailjacoby/Ismail-Jacoby-2024-Portfolio" target="_blank">👨🏻‍💻 Portfolio</a></td>
+    <td>HTML, CSS, Javascript</td>
+    <td>Personal Portfolio to showcase future projects.</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/ismailjacoby/Javascript-Games/tree/fighting-game" target="_blank">🥊 Fighting Game</a></td>
+    <td>HTML, CSS, Javascript</td>
+    <td>Javascript 2 player fighting game.</td>
+  </tr>
+
+</table>
