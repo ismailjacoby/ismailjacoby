@@ -54,6 +54,11 @@
     <td>Web application for managing job applications.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/ismailjacoby/Connect" target="_blank">📱 Connect</a></td>
+    <td>Angular, Spring, and PostgreSQL, Tailwind Css, AWS S3</td>
+    <td>Social Media App.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/ismailjacoby/Ismail-Jacoby-2024-Portfolio" target="_blank">👨🏻‍💻 Portfolio</a></td>
     <td>HTML, CSS, Javascript</td>
     <td>Personal Portfolio to showcase future projects.</td>
