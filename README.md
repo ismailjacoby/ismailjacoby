@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ismail.jacoby@gmail.com**
 
-- 💼 Portfolio: https://ismailjacoby.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
