@@ -42,9 +42,9 @@
     <th>Description</th>
   </tr>  
   <tr>
-    <td><a href="https://github.com/ismailjacoby/JobTracker" target="_blank">💼 Job Tracker</a></td>
+    <td><a href="https://github.com/ismailjacoby/JobTracker" target="_blank">💼 Portfolio</a></td>
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
-    <td>Web application for managing job applications.</td>
+    <td>My personal portfolio website.</td>
   </tr>
 </table>
 
