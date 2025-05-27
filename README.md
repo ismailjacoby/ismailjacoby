@@ -46,6 +46,11 @@
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
     <td>My personal portfolio website.</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">🎵 Hybridvision</a></td>
+    <td>Angular, Spring, PostgreSQL, AWS S3, Stripe</td>
+    <td>Music studio website with e-commerce, file storage, and admin panel.</td>
+  </tr>
 </table>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailjacoby&show_icons=true&locale=en&layout=compact" alt="ismailjacoby" /></p>
