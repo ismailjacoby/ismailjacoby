@@ -46,11 +46,6 @@
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
     <td>My personal portfolio website.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/ismailjacoby/Job-Tracker" target="_blank">💼 Job Tracker</a></td>
-    <td>Angular, Spring, PostgreSQL, Bootstrap</td>
-    <td>Job Tracker App is a web application designed to simplify the job application process for users.</td>
-  </tr>
    <tr>
     <td><a href="https://github.com/ismailjacoby/Hybridvision-Music-Studio-Website" target="_blank">🎹 Hybridvision</a></td>
     <td>Angular, Spring, PostgreSQL, AWS S3, Stripe</td>
