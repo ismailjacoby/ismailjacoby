@@ -42,7 +42,7 @@
     <th>Description</th>
   </tr>  
   <tr>
-    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">👨🏻‍💻 Portfolio (Currently working on)</a></td>
+    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">👨🏻‍💻 Portfolio (In Progress)</a></td>
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
     <td>My personal portfolio website.</td>
   </tr>
