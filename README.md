@@ -53,7 +53,7 @@
   </tr>
    <tr>
     <td><a href="https://github.com/ismailjacoby/Hybridvision-Music-Studio-Website" target="_blank">🎹 Hybridvision (2024)</a></td>
-    <td>Angular, Spring, PostgreSQL, AWS S3, Stripe</td>
+    <td>Angular, Spring, PostgreSQL, AWS S3, Stripe, Docker</td>
     <td>Music studio website with e-commerce, file storage, and admin panel.</td>
   </tr>
 </table>
