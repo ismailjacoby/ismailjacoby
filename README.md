@@ -42,20 +42,11 @@
     <th>Description</th>
   </tr>  
   <tr>
-    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">👨🏻‍💻 Portfolio (In Progress)</a></td>
-    <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
-    <td>My personal portfolio website.</td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/ismailjacoby/Job-Tracker" target="_blank">💼 Job Tracker</a></td>
+    <td><a href="https://github.com/ismailjacoby/job-application-tracker" target="_blank">💼 Job Application Tracker</a></td>
     <td>Angular, Spring, PostgreSQL, Bootstrap</td>
     <td>A full-stack Job Tracking application that helps users efficiently manage and track their job applications.</td>
   </tr>
-   <tr>
-    <td><a href="https://github.com/ismailjacoby/Hybridvision-Music-Studio-Website" target="_blank">🎹 Hybridvision (2024)</a></td>
-    <td>Angular, Spring, PostgreSQL, AWS S3, Stripe, Docker</td>
-    <td>Music studio website with e-commerce, file storage, and admin panel.</td>
-  </tr>
+
 </table>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailjacoby&show_icons=true&locale=en&layout=compact" alt="ismailjacoby" /></p>
