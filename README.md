@@ -43,7 +43,7 @@
   </tr>  
   <tr>
     <td><a href="https://github.com/ismailjacoby/job-application-tracker" target="_blank">💼 Job Application Tracker</a></td>
-    <td>Angular, Spring, PostgreSQL, Bootstrap</td>
+    <td>Angular, Spring, PostgreSQL, TailwindCss</td>
     <td>A full-stack Job Tracking application that helps users efficiently manage and track their job applications.</td>
   </tr>
 
