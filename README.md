@@ -45,6 +45,11 @@
     <td><a href="https://github.com/ismailjacoby/job-application-tracker" target="_blank">💼 Job Application Tracker</a></td>
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
     <td>A full-stack Job Tracking application that helps users efficiently manage and track their job applications.</td>
+  </tr>  
+  <tr>
+    <td><a href="https://github.com/ismailjacoby/job-application-tracker" target="_blank">🎵 Hybridvision - Music Studio Website</a></td>
+    <td>Angular, Spring, PostgreSQL, Docker</td>
+    <td>A website built for a recording studio which includes auth, ecommerce and music player features.</td>
   </tr>
 
 </table>
