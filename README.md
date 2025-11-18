@@ -52,7 +52,7 @@
     <td>A website built for a recording studio which includes auth, ecommerce and music player features.</td>
   </tr> 
   <tr>
-    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">🧑‍💻 Portfolio/a></td>
+    <td><a href="https://github.com/ismailjacoby/portfolio" target="_blank">🧑‍💻 Portfolio</td>
     <td>Angular, Spring, PostgreSQL</td>
     <td>Personal Portfolio site.</td>
   </tr>
