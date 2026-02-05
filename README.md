@@ -41,6 +41,11 @@
     <th>Stack</th>
     <th>Description</th>
   </tr>  
+   <tr>
+    <td><a href="https://github.com/ismailjacoby/dj_website_2026/" target="_blank">🎧 DJ Website</a></td>
+    <td>Html, Tailwind CSS, Javascript</td>
+    <td>This website is part of my DJ business.</td>
+  </tr>  
   <tr>
     <td><a href="https://github.com/ismailjacoby/job-application-tracker" target="_blank">💼 Job Application Tracker</a></td>
     <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
