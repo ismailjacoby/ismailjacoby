@@ -48,7 +48,7 @@
   </tr>
     <tr>
     <td><a href="https://github.com/ismailjacoby/bank_application" target="_blank">🏦 Bank Application</a></td>
-    <td>Spring Boot, Angular, PostgreSQL, Tailwind CSS</td>
+    <td>Angular, Spring, PostgreSQL, Tailwind CSS</td>
     <td>A full-stack banking application simulating a modern digital banking system with authentication, account management, and transaction handling.</td>
   </tr>
   <tr>
